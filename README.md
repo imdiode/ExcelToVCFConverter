@@ -1,4 +1,4 @@
-# Excel To VCF Converter
+# Excel To VCF Converter v1.0
 This python script converts Excel files to VCard files. 
 
 
